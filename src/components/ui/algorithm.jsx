@@ -15,9 +15,6 @@ export default function Algorithm({ algorithm, setAlgorithm }) {
         </SelectTrigger>
         <SelectContent>
           <SelectItem value="AES">AES</SelectItem>  
-          {/* <SelectItem value="DES">DES</SelectItem>
-          <SelectItem value="Rabbit">Rabbit</SelectItem>
-          <SelectItem value="RC4">RC4</SelectItem> */}
         </SelectContent>
       </Select>
     </div>
